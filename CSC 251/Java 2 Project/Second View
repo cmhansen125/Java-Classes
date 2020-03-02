@@ -1,0 +1,4 @@
+removeTagField
+removeTagField1 = new TextField("");
+
+removeRemoveLabel = new Label("  Waiting...");
